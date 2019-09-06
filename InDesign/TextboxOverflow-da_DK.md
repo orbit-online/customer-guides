@@ -2,7 +2,7 @@
 
 [⟵](./README.md)
 
-## Kopiér tekstbokesen til `A-Master`
+## Kopiér tekstboksen til `A-Master`
 
 ![Copy text box to A-Master](./TextboxOverflow/01-copy-textbox-to-a-master.gif)
 
