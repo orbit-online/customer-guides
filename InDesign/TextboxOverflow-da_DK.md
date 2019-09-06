@@ -1,5 +1,7 @@
 # Automatisk oprettelse af sider efter behov
 
+[⟵](./README.md)
+
 ## Kopiér tekstbokesen til `A-Master`
 
 ![Copy text box to A-Master](./TextboxOverflow/01-copy-textbox-to-a-master.gif)
@@ -37,7 +39,7 @@
 3. Flyt tektboksen ud af siden.
 4. Verificér at den primære tekstboks fra `A-Master` er tilgængelig på siden.
 
-## Opret ny `Master Spread` til side 2, 3,...
+## Opret ny `Master Spread` til side `2`, `3`,...
 
 ![Create master spread for next pages](./TextboxOverflow/06-create-b-master-spread-to-next-pages.gif)
 
@@ -48,7 +50,7 @@
 
 ![Copy textbox to B-Master](./TextboxOverflow/07-copy-textbox-to-b-master.gif)
 
-1. Scroll ned til side 2.
+1. Scroll ned til side `2`.
 2. Højreklik på tekstboksen teksten skal overflowe ned i og vælg `Copy`.
 3. Dobbeltklik på `B-Master`.
 4. Højreklik på siden og vælg `Paste in Place`.
@@ -126,3 +128,5 @@
 3. Indsæt det nogle gange indtil der opstår en side `3`.
 4. Verificér at side `3` bruger `B-Master`.
 5. Fortryd `Ctrl + Z` ændringerne indtil vi er tilbage til kun 2 sider igen.
+
+[⟵](./README.md)
