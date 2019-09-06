@@ -1,4 +1,4 @@
-# Sikre bredden på tekstbox er klar til dynamisk indhold
+# Sikre bredden på tekstboksen er klar til dynamisk indhold
 
 ![Ensure textbox width](./TextboxWidth/01-ensure-textbox-width.gif)
 
