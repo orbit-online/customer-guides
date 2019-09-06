@@ -2,7 +2,7 @@
 
 [⟵](../README.md)
 
-## Danske guides (Guides in dansish)
+## Danske guides (Guides in danish)
 
 -   [Sikre bredden på tekstbox er klar til dynamisk indhold](./TextboxWidth-da_DK.md)
 -   [Konvertér tekstboks til primær tekstboks](./PrimaryTextFrame-da_DK.md)
