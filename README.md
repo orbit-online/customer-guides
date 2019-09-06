@@ -1,3 +1,3 @@
 # Guides
 
--   [InDesign](./InDesign/index.md)
+-   [InDesign](./InDesign/README.md)
