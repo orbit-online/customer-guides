@@ -1,10 +1,10 @@
 # Konvertér tekstboks til primær tekstboks
 
-[⟵](./README.md)
+[⟵](../README.md)
 
 ## Kopiér tekstbokesen til `A-Master`
 
-![Copy text box to A-Master](./PrimaryTextFrame/01-copy-textbox-to-a-master.gif)
+![Copy text box to A-Master](../assets/PrimaryTextFrame/01-copy-textbox-to-a-master.gif)
 
 1. Markér textboksen som hvis indhold vi ønsker der skal overflow til næste side.
 2. Højreklik og vælg `Copy`.
@@ -13,7 +13,7 @@
 
 ## Lav tekstboks til primær tekstboks (`Primary Textbox`)
 
-![Make textbox primary](./PrimaryTextFrame/02-make-textbox-primary.gif)
+![Make textbox primary](../assets/PrimaryTextFrame/02-make-textbox-primary.gif)
 
 1. Dobbeltklik på teksboksen.
 2. Markér alt tekst indholdet.
@@ -23,7 +23,7 @@
 
 ## Anvend den `Master spread` på siden
 
-![Apply master to first page](./PrimaryTextFrame/03-apply-master-to-spread.gif)
+![Apply master to first page](../assets/PrimaryTextFrame/03-apply-master-to-spread.gif)
 
 1. Højre klik på side `1`.
 2. Vælg `Apply Master to Pages`.
@@ -32,7 +32,7 @@
 
 ## Flyt den oprindelige tekstbok
 
-![Move text to primary textbox](./PrimaryTextFrame/04-move-text-to-primary-textbox.gif)
+![Move text to primary textbox](../assets/PrimaryTextFrame/04-move-text-to-primary-textbox.gif)
 
 1. Dobbelt klik på side `1`.
 2. Flyt tekstboksen ud til siden.
@@ -40,4 +40,4 @@
 4. Sæt det ind i teksboksen fra `A-Master`.
 5. Slet den gamle tekstboks.
 
-[⟵](./README.md)
+[⟵](../README.md)

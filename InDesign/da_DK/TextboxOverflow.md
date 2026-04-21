@@ -1,10 +1,10 @@
 # Automatisk oprettelse af sider efter behov
 
-[⟵](./README.md)
+[⟵](../README.md)
 
 ## Kopiér tekstboksen til `A-Master`
 
-![Copy text box to A-Master](./TextboxOverflow/01-copy-textbox-to-a-master.gif)
+![Copy text box to A-Master](../assets/TextboxOverflow/01-copy-textbox-to-a-master.gif)
 
 1. Markér textboksen som hvis indhold vi ønsker der skal overflow til næste side.
 2. Højreklik og vælg `Copy`.
@@ -13,7 +13,7 @@
 
 ## Lav tekstboks til primær tekstboks (`Primary Textbox`)
 
-![Make textbox primary](./TextboxOverflow/02-make-textbox-primary.gif)
+![Make textbox primary](../assets/TextboxOverflow/02-make-textbox-primary.gif)
 
 1. Dobbeltklik på teksboksen.
 2. Markér alt tekst indholdet.
@@ -23,7 +23,7 @@
 
 ## Anvend den `Master spread` på siden
 
-![Apply master to first page](./TextboxOverflow/03-apply-master-to-spread.gif)
+![Apply master to first page](../assets/TextboxOverflow/03-apply-master-to-spread.gif)
 
 1. Højre klik på side `1`.
 2. Vælg `Apply Master to Pages`.
@@ -32,7 +32,7 @@
 
 ## Flyt den oprindelige tekstbok
 
-![Move non-primary textbox away](./TextboxOverflow/05-move-non-primary-textbox-away.gif)
+![Move non-primary textbox away](../assets/TextboxOverflow/05-move-non-primary-textbox-away.gif)
 
 1. Dobbeltklik på siden vi kopierede tekstboksen fra.
 2. Klik på tekstboksen.
@@ -41,14 +41,14 @@
 
 ## Opret ny `Master Spread` til side `2`, `3`,...
 
-![Create master spread for next pages](./TextboxOverflow/06-create-b-master-spread-to-next-pages.gif)
+![Create master spread for next pages](../assets/TextboxOverflow/06-create-b-master-spread-to-next-pages.gif)
 
 1. Højre klik på `A-Master`.
 2. Vælg `Duplicate Master Spread "A-Master"`
 
 ## Kopiér tekstbox fra side `2` til `B-Master`
 
-![Copy textbox to B-Master](./TextboxOverflow/07-copy-textbox-to-b-master.gif)
+![Copy textbox to B-Master](../assets/TextboxOverflow/07-copy-textbox-to-b-master.gif)
 
 1. Scroll ned til side `2`.
 2. Højreklik på tekstboksen teksten skal overflowe ned i og vælg `Copy`.
@@ -57,7 +57,7 @@
 
 ## Lav separat tekstboks til statisk overskrift
 
-![Create spearate textbox for static heading](./TextboxOverflow/08-create-separate-textbox-for-static-heading.gif)
+![Create spearate textbox for static heading](../assets/TextboxOverflow/08-create-separate-textbox-for-static-heading.gif)
 
 1. Dobbeltklik på teksboksen.
 2. Markér alt tekst indholdet som ikke er overskriften.
@@ -66,7 +66,7 @@
 
 ## Indsæt tekstboks til dynamisk indhold
 
-![Create primary textbox for dynamic content](./TextboxOverflow/09-make-dynamic-textbox-primary.gif)
+![Create primary textbox for dynamic content](../assets/TextboxOverflow/09-make-dynamic-textbox-primary.gif)
 
 1. Højreklik på siden og vælg `Paste in Place`.
 2. Ændre teksboksrammen størrelse til at flugte med overskriften.
@@ -77,7 +77,7 @@
 
 ## Anvend `B-Master` på side `2`
 
-![Apply B-Master on 2 page](./TextboxOverflow/10-apply-b-master-to-second-page.gif)
+![Apply B-Master on 2 page](../assets/TextboxOverflow/10-apply-b-master-to-second-page.gif)
 
 1. Højre klik på `Page 2`.
 2. Vælg `Apply Master to Pages`.
@@ -86,7 +86,7 @@
 
 ## Flyt den oprindelige tekstbok på side `2` væk
 
-![Move Page 2 non-primary textbox away](./TextboxOverflow/11-move-page-2-non-primary-textbox-away.gif)
+![Move Page 2 non-primary textbox away](../assets/TextboxOverflow/11-move-page-2-non-primary-textbox-away.gif)
 
 1. Dobbeltklik på side `2`.
 2. Klik på tekstboksen.
@@ -95,14 +95,14 @@
 
 ## Link tekstboksene sammen
 
-![Link textboxes](./TextboxOverflow/12-link-textboxes.gif)
+![Link textboxes](../assets/TextboxOverflow/12-link-textboxes.gif)
 
 1. Klik på den lille boks under øverste venstre hjørne af tesktboksen på side `2`.
 2. Scroll op til side `1` og klik på tektsboksen vi vil kæde sammen med.
 
 ## Kopíer teksten fra tekstboksene som er flyttet
 
-![Copy text into linked textbox](./TextboxOverflow/13-copy-text-into-linked-textbox.gif)
+![Copy text into linked textbox](../assets/TextboxOverflow/13-copy-text-into-linked-textbox.gif)
 
 1. Klik indeni tekstboksen udenfor siden.
 2. Markér alt teksten.
@@ -112,7 +112,7 @@
 
 ## Oprydning
 
-![Cleanup delete textboxes](./TextboxOverflow/14-cleanup-delete-textboxes.gif)
+![Cleanup delete textboxes](../assets/TextboxOverflow/14-cleanup-delete-textboxes.gif)
 
 1. Klik på tekstboksen ved siden af side `1`.
 2. Tryk på `Delete` tasten på tasteturet.
@@ -121,7 +121,7 @@
 
 ## Verificér tekstoverflow effekten
 
-![Verify text overflows correctly](./TextboxOverflow/15-verify-text-overflows-correctly.gif)
+![Verify text overflows correctly](../assets/TextboxOverflow/15-verify-text-overflows-correctly.gif)
 
 1. Markér teksten der går ud på siden `2`.
 2. Kopiér teksten (højreklik -> `Copy` / `Ctrl + C`)
@@ -131,4 +131,4 @@
 
 Vigtigt: husk at du maksimalt kan have 10 sider i ét spread. Det er en begrænsning i InDesign.
 
-[⟵](./README.md)
+[⟵](../README.md)
